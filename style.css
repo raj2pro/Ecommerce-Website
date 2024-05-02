@@ -1,6 +1,6 @@
 *{
-    padding: 200;
-    margin: 200;
+    padding: 200 px;
+    margin: 200 px;
     box-sizing: border-box;
 }
 
@@ -54,3 +54,4 @@ body{
 .background{
     backdrop-filter: blur(10px);
 }
+
